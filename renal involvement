@@ -1,0 +1,66 @@
+Identify all adult patients (age ≥18 years) who were **admitted specifically for active ANCA-associated vasculitis (AAV) with renal involvement** within the **last 48 months**.
+
+**Inclusion criteria**
+- Hospital admission where the **primary reason for admission was active renal ANCA-associated vasculitis**, including:
+  - Granulomatosis with polyangiitis (GPA) with renal involvement
+  - Microscopic polyangiitis (MPA) with renal involvement
+  - EGPA with renal involvement
+  - Renal-limited ANCA-associated vasculitis / pauci-immune glomerulonephritis
+- Evidence of active renal involvement during that admission, such as:
+  - AKI or worsening kidney function attributed to AAV
+  - Hematuria or active urinary sediment consistent with glomerulonephritis
+  - Proteinuria associated with active AAV
+  - Kidney biopsy showing pauci-immune necrotizing/crescentic glomerulonephritis
+  - Clinician documentation that the admission was for renal AAV / ANCA-associated glomerulonephritis
+
+**Exclude**
+- AAV admissions without renal involvement
+- Admissions for unrelated conditions in patients with a history of AAV
+- Patients on chronic maintenance dialysis before the renal AAV admission, if dialysis was unrelated to the acute AAV episode
+
+**Primary comparison during the renal AAV admission**
+
+Divide patients into:
+
+1. **Dialysis group:** patients who required renal replacement therapy (intermittent hemodialysis or CRRT) during the admission for renal AAV.
+2. **No-dialysis group:** patients admitted for renal AAV who did not require dialysis during that hospitalization.
+
+For each group, report:
+- Number of patients
+- Age
+- Sex
+- Race/ethnicity
+- GPA, MPA, EGPA, or renal-limited disease
+- MPO-ANCA vs PR3-ANCA
+- Admission serum creatinine and eGFR
+- Peak serum creatinine
+- Discharge serum creatinine and eGFR
+- Hematuria / active urinary sediment
+- Proteinuria / UPCR / UACR
+- Kidney biopsy performed
+- Pauci-immune glomerulonephritis
+- Crescentic or necrotizing findings, if available
+- Rituximab
+- Cyclophosphamide
+- Glucocorticoids
+- Plasma exchange
+- Avacopan
+- ICU admission
+- Mechanical ventilation
+- Hospital length of stay
+- In-hospital mortality
+- **Dialysis required during admission**
+- **Dialysis still required at hospital discharge**
+- **Recovered kidney function and discontinued dialysis before discharge**
+- Dialysis dependence at subsequent follow-up, if available
+
+**Secondary analysis among patients who required dialysis**
+
+Stratify the dialysis group into:
+
+1. **Dialysis-dependent at discharge:** required ongoing outpatient dialysis at hospital discharge.
+2. **Dialysis-independent at discharge:** required dialysis during the renal AAV admission but recovered sufficient kidney function to discontinue dialysis before discharge.
+
+Compare these groups for renal function, MPO vs PR3 status, biopsy findings, treatment received, ICU requirement, hospital length of stay, mortality, and subsequent kidney recovery.
+
+Use the **first hospitalization within the 48-month period in which the patient was admitted specifically for active renal ANCA-associated vasculitis** as the index admission.
