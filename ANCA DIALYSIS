@@ -1,0 +1,40 @@
+Identify all adult patients (age ≥18 years) with **ANCA-associated vasculitis (AAV)** seen within the **last 48 months**.
+
+**Inclusion criteria**
+- Diagnosis of ANCA-associated vasculitis, including:
+  - Granulomatosis with polyangiitis (GPA)
+  - Microscopic polyangiitis (MPA)
+  - Eosinophilic granulomatosis with polyangiitis (EGPA)
+  - ANCA-positive pauci-immune glomerulonephritis / renal-limited vasculitis
+- At least one encounter within the health system during the 48-month study period.
+
+**Primary comparison**
+Divide patients into two mutually exclusive groups:
+1. **Dialysis group:** patients who required renal replacement therapy (intermittent hemodialysis, peritoneal dialysis, or CRRT) during the study period or during hospitalization for AAV.
+2. **No-dialysis group:** patients with AAV who did not require dialysis during the study period.
+
+For each group, report:
+- Number of patients
+- Age
+- Sex
+- Race/ethnicity
+- AAV subtype (GPA, MPA, EGPA, renal-limited/other)
+- MPO-ANCA vs PR3-ANCA status, if available
+- Baseline serum creatinine and eGFR
+- Peak serum creatinine
+- Proteinuria/UPCR or UACR, if available
+- Hematuria
+- Kidney biopsy and presence of pauci-immune glomerulonephritis
+- ICU admission
+- Mechanical ventilation
+- Hospital length of stay
+- Rituximab use
+- Cyclophosphamide use
+- Glucocorticoid use
+- Plasma exchange
+- Avacopan use
+- SGLT2 inhibitor use
+- Death during hospitalization and all-cause mortality, if available
+- **Whether dialysis was still required at the time of hospital discharge**
+- **Dialysis dependence at hospital discharge**
+-
